@@ -1,0 +1,1 @@
+"C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\MSBuild\15.0\Bin\msbuild.exe" "b:\ClibExe\KillProcess1\KillProcess\KillProcess.vbproj" /property:Configuration=Release /verbosity:Normal >> "b:\ClibExe\KillProcess1\KillProcess.Build.Log"
